@@ -1,0 +1,9 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	a.ns.facebook.com
+Address: 129.134.30.12
+Name:	a.ns.facebook.com
+Address: 2a03:2880:f0fc:c:face:b00c:0:35
+

@@ -1,0 +1,9 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	edns69.ultradns.com
+Address: 204.74.66.69
+Name:	edns69.ultradns.com
+Address: 2001:502:f3ff::245
+

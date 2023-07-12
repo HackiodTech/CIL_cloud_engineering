@@ -1,0 +1,9 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	ns4.google.com
+Address: 216.239.38.10
+Name:	ns4.google.com
+Address: 2001:4860:4802:38::a
+
